@@ -1,0 +1,24 @@
+﻿<form method="post">
+    <label for="fullname">Имя</label>
+    <input type="text" name="fullname" required />
+
+    <label for="email">email</label>
+    <input type="email" name="email" required />
+
+    <label for="phone">phone</label>
+    <input type="text" name="phone" required />
+
+    <label for="password">password</label>
+    <input type="password" name="password" required />
+
+    <button type="submit">Зарегистрироваться</button>
+</form>
+
+@if (ViewBag.ErrorMessage != null)
+{
+
+    @ViewBag.ErrorMessage
+
+
+}
+<a asp-action="Authorization">Уже есть аккаунт? Авторизоваться.</a>

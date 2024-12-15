@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Osipan.Models.Catalog>
+@{
+    
+}
+
+<h2 style="color: white; text-align: center;">Поиск и фильтрация товаров</h2>
+
+<div class="search-sort-filter">
+    <input type="text" id="searchInput" placeholder="Поиск по названию..." />
+
+    <select id="filterCategory">
+        <option value="">Все категории</option>
+        <option value="1">Коврики</option>
+        <option value="2">Ноутбуки</option>
+        <option value="3">Аксессуары</option>
+    </select>
+
+    <select id="sortOptions">
+        <option value="priceAsc">Цена: по возрастанию</option>
+        <option value="priceDesc">Цена: по убыванию</option>
+        <option value="nameAsc">Название: от А до Я</option>
+        <option value="nameDesc">Название: от Я до А</option>
+    </select>
+
+    <button id="applyFilters">Применить</button>
+</div>
+
+<div id="productsList">
+    @foreach (var item in Model)
+    {
+        <div class="product-item" data-category="@item.CategoryId" data-price="@item.Price" data-name="@item.Names">
+            
+            <h2>@item.Names</h2>
+            <p class="price">Цена @item.Price.ToString("N0") ₽</p>
+            <p>@item.Descriptions</p>
+        </div>
+    }
+</div>

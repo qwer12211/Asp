@@ -1,0 +1,52 @@
+﻿@model Osipan.Models.Catalog
+@{
+    ViewBag.Title = Model.Names;
+    var categories = new Dictionary<int, string>
+    {
+        { 1, "Коврики" },
+        { 2, "Ноутбуки" },
+        { 3, "Аксессуары" }
+    };
+    var categoryName = categories.ContainsKey(Model.CategoryId ?? 0)
+        ? categories[Model.CategoryId ?? 0]
+        : "Неизвестная категория";
+}
+<h2>@Model.Names</h2>
+<div style="color: black">
+    <dl class="dl-horizontal">
+        
+
+        <dt>Цена</dt>
+        <dd>@Model.Price.ToString("N0") ₽</dd>
+
+       <dt>Описание</dt>
+        <dd>@Model.Descriptions</dd>
+        <form asp-action="AddToCart" method="post">
+            @Html.AntiForgeryToken()
+            <input type="hidden" name="catalogId" value="@Model.IdCatalog" />
+            <input type="number" name="quantity" value="1" min="1" max="@Model.Quantity" />
+            <button type="submit" class="btn btn-default">Добавить в корзину</button>
+        </form>
+    </dl>
+</div>
+<div>
+    @if (ViewBag.CategoryId == 1)
+    {
+        <a asp-action="covrik" class="btn btn-default">Назад</a>
+    }
+    else if (ViewBag.CategoryId == 2)
+    {
+        <a asp-action="notebook" class="btn btn-default">Назад</a>
+    }
+    else if (ViewBag.CategoryId == 3)
+    {
+        <a asp-action="accessories" class="btn btn-default">Назад</a>
+    }
+    else
+    {
+        <a asp-action="Index" class="btn btn-default">Назад</a>
+    }
+    <form asp-action="Delete" asp-route-id="@Model.IdCatalog" method="post" style="display:inline;">
+        <button type="submit" class="btn btn-danger" onclick="return confirm('Вы уверены, что хотите удалить этот продукт?');">Удалить</button>
+    </form>
+</div>

@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Osipan.Models.User>
+@{
+    ViewBag.Title = "Пользлватели";
+}
+<a asp-action="Createuser">Добавить пользователя</a>
+<table class="table">
+    @foreach(var item in Model)
+    {
+        <tr><td>@item.FirstName</td>
+        <td>
+
+
+
+        </td></tr>
+
+    }
+
+</table>

@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\source\\repos\\Osipan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\catalogsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\catalogsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\notebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\notebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\models\\posorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\models\\posorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\admin\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\admin\\adminindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\authorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\authorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\accessories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\accessories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\covrik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\covrik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\models\\practoselectricaspnetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\models\\practoselectricaspnetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\models\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\models\\productcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|c:\\users\\misha\\source\\repos\\osipan\\osipan\\osipan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B465505-D8D0-4999-BD74-3A26B5A0E496}|Osipan\\Osipan.csproj|solutionrelative:osipan\\osipan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PosOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\PosOrder.cs",
+              "RelativeDocumentMoniker": "Osipan\\Models\\PosOrder.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\PosOrder.cs",
+              "RelativeToolTip": "Osipan\\Models\\PosOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:35:29.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Osipan\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Osipan\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:18:18.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Osipan\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Osipan\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:15:55.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "notebook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\notebook.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\notebook.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\notebook.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\notebook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T08:57:41.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogSearch.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\CatalogSearch.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\CatalogSearch.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\CatalogSearch.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\CatalogSearch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:08:21.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Osipan\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Osipan\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-03T00:02:44.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\Catalog.cs",
+              "RelativeDocumentMoniker": "Osipan\\Models\\Catalog.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\Catalog.cs",
+              "RelativeToolTip": "Osipan\\Models\\Catalog.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:29:11.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Admin\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Admin\\CreateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T08:28:45.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Admin\\AdminIndex.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Admin\\AdminIndex.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Admin\\AdminIndex.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Admin\\AdminIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T08:32:06.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T07:01:57.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Osipan\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\CartItem.cs",
+              "RelativeToolTip": "Osipan\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:50:20.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Osipan\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\Cart.cs",
+              "RelativeToolTip": "Osipan\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:12:08.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Osipan\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Osipan\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:38:07.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T07:15:00.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "authorization.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\authorization.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\authorization.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\authorization.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\authorization.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T00:07:20.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Osipan\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Osipan\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA/wBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:35:29.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "covrik.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\covrik.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\covrik.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\covrik.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\covrik.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T08:57:05.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T08:57:52.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\details.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\details.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\details.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:03:21.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\delete.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\delete.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\delete.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:03:20.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T08:02:22.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Osipan\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T07:03:17.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "accessories.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\accessories.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\accessories.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\accessories.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\accessories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T06:59:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\ProductCatalog.cs",
+              "RelativeDocumentMoniker": "Osipan\\Models\\ProductCatalog.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\ProductCatalog.cs",
+              "RelativeToolTip": "Osipan\\Models\\ProductCatalog.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:33:52.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:44:15.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Osipan\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Osipan\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:43:04.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Osipan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Osipan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T09:42:35.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Osipan\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\Order.cs",
+              "RelativeToolTip": "Osipan\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:31:01.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Osipan\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\User.cs",
+              "RelativeToolTip": "Osipan\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:30:53.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Program.cs",
+              "RelativeDocumentMoniker": "Osipan\\Program.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Program.cs",
+              "RelativeToolTip": "Osipan\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:22:58.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Osipan\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\appsettings.Development.json",
+              "RelativeToolTip": "Osipan\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T09:24:25.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\appsettings.json",
+              "RelativeDocumentMoniker": "Osipan\\appsettings.json",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\appsettings.json",
+              "RelativeToolTip": "Osipan\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T09:23:01.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "practosElectricASPnetContext.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\practosElectricASPnetContext.cs",
+              "RelativeDocumentMoniker": "Osipan\\Models\\practosElectricASPnetContext.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Models\\practosElectricASPnetContext.cs",
+              "RelativeToolTip": "Osipan\\Models\\practosElectricASPnetContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAhwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:22:23.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Osipan.csproj",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Osipan.csproj",
+              "RelativeDocumentMoniker": "Osipan\\Osipan.csproj",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\Osipan\\Osipan\\Osipan.csproj",
+              "RelativeToolTip": "Osipan\\Osipan.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T09:16:10.647Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

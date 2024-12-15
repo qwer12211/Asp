@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Osipan.Models.Catalog>
+
+@{
+    
+
+    var filteredModel = Model.Where(i => i.CategoryId == 3);
+}
+
+<div class="servers-container">
+    @foreach (var i in filteredModel)
+    {
+        <div class="server-card">
+            <h3>@i.Names</h3>
+            <p class="price">Цена @i.Price.ToString("N0") ₽</p>
+            <p>@i.Descriptions</p>
+            <a asp-action="Details" asp-route-id="@i.IdCatalog" class="btn details-btn">ПОДРОБНЕЕ</a>
+        </div>
+    }
+</div>

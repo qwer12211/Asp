@@ -1,0 +1,133 @@
+﻿@using System.Linq
+@model List<Osipan.Models.Cart>
+@{
+    ViewBag.Title = "Корзина";
+    var totalSum = Model.Sum(x => x.Quantity * (x.Catalog?.Price ?? 0));
+}
+
+<html>
+<head>
+    <style>
+        h1 {
+            text-align: center;
+            margin: 20px 0;
+            color: #007bff;
+        }
+
+        p {
+            text-align: center;
+            font-size: 1.2em;
+            color: #0056b3;
+        }
+
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background-color: #f8f9fa;
+            color: #212529;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: center;
+            border: 1px solid #dee2e6;
+        }
+
+        th {
+            background-color: #007bff;
+            color: #ffffff;
+            text-transform: uppercase;
+        }
+
+        tr:nth-child(even) {
+            background-color: #e9ecef;
+        }
+
+        tr:hover {
+            background-color: #dae0e5;
+            cursor: pointer;
+        }
+
+        .actions button {
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: #ffffff;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+            .actions button:hover {
+                background-color: #0056b3;
+                color: #ffffff;
+            }
+
+        .empty-cart {
+            text-align: center;
+            margin: 20px;
+            font-size: 1.5em;
+            color: #007bff;
+        }
+
+        .total-sum {
+            text-align: right;
+            margin: 20px 10%;
+            font-size: 1.5em;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ваша корзина</h1>
+
+    @if (!Model.Any())
+    {
+        <p class="empty-cart">Корзина пуста.</p>
+    }
+    else
+    {
+        <table>
+            <thead>
+                <tr>
+                    <th>Товар</th>
+                    <th>Количество</th>
+                    <th>Цена</th>
+                    <th>Общая стоимость</th>
+                    <th>Действие</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Catalog?.Names</td>
+                        <td>
+                            <form asp-action="UpdateQuantity" method="post" style="display:inline;">
+                                @Html.AntiForgeryToken()
+                                <input type="hidden" name="cartId" value="@item.CatalogId" />
+                                <input type="number" name="quantity" value="@item.Quantity" min="1" style="width: 50px;" />
+                                <button type="submit" style="background-color: #007bff; border: none; color: #ffffff; cursor: pointer;">Обновить</button>
+                            </form>
+                        </td>
+                        <td>@item.Catalog?.Price.ToString("N0") ₽</td>
+                        <td>@((item.Quantity * (item.Catalog?.Price ?? 0)).ToString("N0")) ₽</td>
+                        <td class="actions">
+                            <form asp-action="RemoveFromCart" method="post" style="display:inline;">
+                                @Html.AntiForgeryToken()
+                                <input type="hidden" name="cartId" value="@item.CatalogId" />
+                                <button type="submit">Удалить</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <p class="total-sum">Итоовая сумма: @totalSum.ToString("N0") ₽</p>
+    }
+</body>
+</html>
